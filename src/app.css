@@ -1,0 +1,9 @@
+.App {
+  background-color: rgb(24, 24, 27);
+  padding-bottom: 64px;
+}
+
+html {
+  background-color: black;
+  overflow-x: hidden;
+}
